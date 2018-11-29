@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "51192475994",
+    "firebase_url": "https://fir-databaseapp-2bab3.firebaseio.com",
+    "project_id": "fir-databaseapp-2bab3",
+    "storage_bucket": "fir-databaseapp-2bab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51192475994:android:42294a4a459c40eb",
+        "android_client_info": {
+          "package_name": "com.gprovs.firebasedatabaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51192475994-vi5ec2qc9hu7n6a7rl8m7boi89sb9l7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gprovs.firebasedatabaseapp",
+            "certificate_hash": "f7cf0523337dfb7aceaaeadba1bd9dadee881e7f"
+          }
+        },
+        {
+          "client_id": "51192475994-eu3dlljp7co8f2n8uqtl0kudi5fcgq1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTsUyJlh_6u8k9oqRS93kFreKCqgYYgO4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51192475994-eu3dlljp7co8f2n8uqtl0kudi5fcgq1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
